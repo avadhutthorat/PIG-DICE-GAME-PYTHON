@@ -29,6 +29,6 @@ Players take turns rolling dice, accumulating points, but beware 👀 — if you
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pig-dice-game.git
+git clone https://github.com/avadhutthorat/PIG-DICE-GAME-PYTHON.git
 cd pig-dice-game
 ```
